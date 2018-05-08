@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Title = props => 
-	<div>
+	<div>           //jezeli wewnatrz jest jeden element, div mozna pominac
 		<h1>{props.title}</h1>
 	</div>
 
